@@ -1,11 +1,6 @@
-"""month = ['January', 'February', 'March', 'April', 
-         'May', 'June', 'July', 'August', 'September',
-         'October', 'November', 'December']
-entry = int(input())
-
-print (month[entry-1])"""
-
-month = int(input())
+#Leia um valor inteiro entre 1 e 12, inclusive. Correspondente a este valor, 
+# deve ser apresentado como resposta o mês do ano por extenso, 
+#em inglês, com a primeira letra maiúscula.
 
 #chave:valor
 months_dict = {
